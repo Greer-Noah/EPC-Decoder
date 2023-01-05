@@ -1,0 +1,6 @@
+future>=0.18.2
+pandas>=1.5.1
+XlsxWriter>=3.0.3
+openpyxl>=3.0.10
+chardet>=5.0.0
+pyepc>=0.0.3
